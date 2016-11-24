@@ -1,0 +1,5 @@
+compile:
+	javac *.java
+
+Run
+	java MProxy <port>
